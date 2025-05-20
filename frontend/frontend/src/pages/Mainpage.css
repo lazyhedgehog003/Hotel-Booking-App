@@ -1,0 +1,28 @@
+.mainpage{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.hotel-div{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.hotel-div img{
+    width: 100%;
+}
+
+.hotel-info-div{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
