@@ -25,12 +25,12 @@ Type and enter "monogosh" in your terminal to initialize mongodb locally before 
 
 ## Install dependencies:
 For Backend:
-"cd backend
-npm install"
+-"cd backend"
+-"npm install"
 For Frontend:
-"cd ../frontend
-npm install
-npm install axios bcrypt react-router-dom"
+-"cd ../frontend"
+-"npm install"
+-"npm install axios bcrypt react-router-dom"
 
 ## Run the app:
 
